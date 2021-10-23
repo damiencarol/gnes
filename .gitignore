@@ -1,0 +1,6 @@
+*.sublime-*
+build
+MOONSCRIPT
+TODO
+tests
+games
